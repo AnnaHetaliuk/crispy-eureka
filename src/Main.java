@@ -7,7 +7,8 @@ public class Main {
             System.out.println(i);
         }
 
-        System.out.println("Wow!");
+
+        System.out.println("Loop");
 
 
     }
